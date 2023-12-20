@@ -5,7 +5,7 @@
 # return - Welcome message
 
 def greet(name, region):
-    """mamamamamama"""
+    """tata"""
     message = get_message(region)
     return message + " " + name
 
