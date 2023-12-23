@@ -1,0 +1,8 @@
+# Ignore everything!
+*
+
+# Except for .py and .md files
+!*.py
+!*.md
+# Exclude .gitignore from being ignored
+!.gitignore
